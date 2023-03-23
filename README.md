@@ -97,10 +97,16 @@ PyChandigarh Code of Conduct is licensed under a Creative Commons Attribution 3.
 - [GitHub](https://github.com/PyChandigarh)
 - [Telegram](https://t.me/pychandigarh)
 
+## Website
+
+- [pychandigarh.org](https://pychandigarh.org/)
+- [pychandigarh.github.io](https://pychandigarh.github.io/)
+- [CFP](https://github.com/PyChandigarh/CFP#readme)
+
 ## Mailing List
 
 Subscribe to the mailing list [here](https://mail.python.org/mailman3/lists/pychandigarh.python.org/)
 
 ## Contact Us
 
-mailto:contact@pychandigarh.org
+[Contact PyChandigarh](mailto:contact@pychandigarh.org)
