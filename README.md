@@ -81,7 +81,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Organisers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those
 experiencing harassment to feel safe for the duration of the meetups. We value your attendance.
 
-If the matter is especially urgent, you may also ask to be put in touch with the community leaders & organisers - Jatin Goel -- [https://twitter.com/_JatinGoel].
+If the matter is especially urgent, you may also ask to be put in touch with the community leaders & organisers - [Jatin Goel](https://twitter.com/_JatinGoel).
 
 ### LICENSE
 
@@ -92,15 +92,15 @@ PyChandigarh Code of Conduct is licensed under a Creative Commons Attribution 3.
 
 ## Social Media
 
-- LinkedIn: https://www.linkedin.com/company/pychandigarh
-- Twitter: https://www.twitter.com/PyChandigarh
-- GitHub: https://github.com/PyChandigarh
-- Telegram: https://t.me/pychandigarh
+- [LinkedIn](https://www.linkedin.com/company/pychandigarh)
+- [Twitter](https://www.twitter.com/PyChandigarh)
+- [GitHub](https://github.com/PyChandigarh)
+- [Telegram](https://t.me/pychandigarh)
 
 ## Mailing List
 
-https://mail.python.org/mailman3/lists/pychandigarh.python.org/
+Subscribe to the mailing list [here](https://mail.python.org/mailman3/lists/pychandigarh.python.org/)
 
 ## Contact Us
 
-contact@pychandigarh.org
+mailto:contact@pychandigarh.org
