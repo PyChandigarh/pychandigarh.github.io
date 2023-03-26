@@ -4,7 +4,7 @@ Community-driven group for all Pythonistas in Chandigarh
 
 ## About Us
 
-We are a community of Students, Software Engineers, Learners, Explorers who are curious to 
+We are a community of Students, Software Engineers, Learners, Explorers who are curious to
 learn and contribute to Python language in it's development, adoption and usage
 
 ## Code of Conduct (COC)
@@ -99,9 +99,12 @@ PyChandigarh Code of Conduct is licensed under a Creative Commons Attribution 3.
 
 ## Website
 
-- [pychandigarh.org](https://pychandigarh.org/)
 - [pychandigarh.github.io](https://pychandigarh.github.io/)
 - [CFP](https://github.com/PyChandigarh/CFP#readme)
+
+## Events
+
+Check out the events page [here](./events/EVENTS.md)
 
 ## Mailing List
 
