@@ -2,6 +2,25 @@
 
 Community-driven group for all Pythonistas in Chandigarh
 
+## Table of contents
+
+- [PyChandigarh](#pychandigarh)
+  - [Table of contents](#table-of-contents)
+  - [About Us](#about-us)
+  - [Code of Conduct (COC)](#code-of-conduct-coc)
+    - [SHORT VERSION](#short-version)
+    - [Code for Speakers](#code-for-speakers)
+    - [Code for Exhibitors and Sponsors](#code-for-exhibitors-and-sponsors)
+    - [Code for Participants](#code-for-participants)
+    - [LONG VERSION](#long-version)
+    - [Contact Information](#contact-information)
+    - [LICENSE](#license)
+  - [Social Media](#social-media)
+  - [Website](#website)
+  - [Events](#events)
+  - [Mailing List](#mailing-list)
+  - [Contact Us](#contact-us)
+
 ## About Us
 
 We are a community of Students, Software Engineers, Learners, Explorers who are curious to
