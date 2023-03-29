@@ -22,6 +22,7 @@ Check out the events page [here](./events/EVENTS.md)
     - [LICENSE](#license)
   - [Social Media](#social-media)
   - [Website](#website)
+  - [Call for Proposals](#call-for-proposals)
   - [Events](#events)
   - [Mailing List](#mailing-list)
   - [Contact Us](#contact-us)
@@ -124,6 +125,9 @@ PyChandigarh Code of Conduct is licensed under a Creative Commons Attribution 3.
 ## Website
 
 - [pychandigarh.github.io](https://pychandigarh.github.io/)
+
+## Call for Proposals
+
 - [CFP](https://github.com/PyChandigarh/CFP#readme)
 
 ## Events
