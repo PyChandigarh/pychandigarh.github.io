@@ -2,9 +2,14 @@
 
 Community-driven group for all Pythonistas in Chandigarh
 
+## Upcoming Events
+
+Check out the events page [here](./events/EVENTS.md)
+
 ## Table of contents
 
 - [PyChandigarh](#pychandigarh)
+  - [Upcoming Events](#upcoming-events)
   - [Table of contents](#table-of-contents)
   - [About Us](#about-us)
   - [Code of Conduct (COC)](#code-of-conduct-coc)

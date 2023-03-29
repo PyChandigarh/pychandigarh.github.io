@@ -1,4 +1,4 @@
-# Events
+# Upcoming Events
 
 ## Saturday, April 22, 2023
 
